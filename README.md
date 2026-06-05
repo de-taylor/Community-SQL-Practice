@@ -13,4 +13,4 @@ Check out our current projects below, and drop me a line if you'd like to join!
 
 | Name | Description | Project Guide |
 | :--- | :---------- | :------------ |
-| [Project1 (TBD)](.\Project1) | To be determined :) | DT |
+| [Project1 (TBD)](./Project1) | To be determined :) | DT |
