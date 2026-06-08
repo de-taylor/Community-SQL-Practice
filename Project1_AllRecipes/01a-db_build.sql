@@ -7,4 +7,4 @@ NOTE: psql doesn't allow for context switching in scripts, so you'll have to run
 */
 
 -- Create Database
-CREATE DATABASE new_database_here;
+CREATE DATABASE All_Recipes; 
